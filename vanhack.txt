@@ -1,0 +1,114 @@
+Bilingual DevOps Engineer with background designing, testing and implementing infrastructure and applications. Talented performer with over 5+ years of experience using source control tools to identify and fix bugs in code. Consistent team player with exemplary multitasking skills.
+
+AWS,RHEL, Terraform, Packer, CI/CD Jenkins, Docker, Kubernetes, Terraform, Ansible, Git/BitBucket, Maven, Jmeter, Nexus, Newrelic, Nagios, SonarQube, Splunk, Shell scrip
+
+ting, Python scripting.
+
+
+Certified AWS Certified Developer-Associate
+
+https://www.youracclaim.com/badges/6da6cce0-ea04-45ea-bed3-2a038d5e425a
+
+Certified AWS Sysops Administrator-Associate
+
+https://www.youracclaim.com/badges/a56fe6e2-1fc7-417b-bc3c-7bf96ee81ba3
+
+
+Certified AWS Solution Architect-Associate
+
+https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2017-12-19&ci=AWS00297221&dm=80
+\
+
+
+
+
+
+
+
+
+
+
+Your first task is to introduce yourself as done in all interviews. This video and the next ones will be added to your VanHack Profile. Recruiters and companies may watch them, gauge your professional background and communication skills, and be encouraged to request an online interview with you. With this in mind, make sure to express yourself clearly and persuasively.
+
+Please include in your video:
+
+Your first name
+
+Your professional title (i.e. “Java developer”)
+
+Your total years of IT experience
+
+Your educational level (when applicable)
+
+Your main tech stack/tools
+
+Your career goals, and the reasoning behind them
+
+An interesting fact about yourself
+
+Refrain from mentioning other common personal details such as your age, citizenship, and relationship status. We strongly recommend you to watch your recorded video before sending it to make sure the audio and video quality is good.
+
+Example
+Below, you will see some examples to guide you. Keep in mind that you do not need to follow them word-by-word – add your spin and your own personality, make it your own! And don't forget to include the seven items listed above in your answer.
+
+“My name is John, and I am a Full-Stack Software Engineer with over six years of experience. I have a Bachelor’s degree in Computer Science and a Master’s in Machine Learning, and my main tech stack consists of Python, Django, Javascript, React, and SQL databases. Machine learning is my passion, so my main career goal is to work in a Machine Learning startup where I can apply my knowledge and develop it further with the support of talented coworkers. I also aspire to become a leader in the future. One interesting thing about myself is that I am a musician and have been a part of a band in the past.”
+
+“Hello! I’m John. I’ve been working as a Full-Stack Software Engineer for six years, developing applications using tools such as Python, Django, Javascript, React, and SQL databases. I have a Bachelor’s degree in Computer Science and studied Machine Learning in my Master’s, where I fell in love with the field. I look forward to working in a Machine Learning startup in the future, and I’d say that is my main career goal at the moment. I would love to apply my current knowledge and develop it further with the support of talented coworkers. Becoming a good leader is something that also interests me and that I am pursuing. Oh, and you should know that I play the guitar and have been in a band in the past!”
+
+
+
+
+
+
+Your second challenge is to talk about a technical challenge you’ve faced. We would like to hear your answer to the following four questions:
+
+1. What was the biggest technical challenge you have faced in a project so far?
+
+2. How did you overcome this challenge (feel free to provide technical details)?
+
+3. What were the results?
+
+4. What three lessons have you learned from that experience?
+
+Make sure to answer all four questions in your video. We strongly recommend you to watch your recorded video before sending it to make sure the audio and video quality is adequate.
+
+DON’T FORGET
+Your video must meet the following conditions:
+
+Do not recite a script written beforehand – just talk spontaneously as you would in an interview. Reading a script will void your videos!
+
+Record this video in a quiet place where you can be heard clearly, and your face is well-lit
+
+Do your best to look presentable, but don’t feel pressured to dress formally
+
+Make sure your audio and video are of good quality, and that your eyes and face can be seen clearly
+
+
+
+
+Your last challenge is to prepare for your upcoming interviews.
+
+Imagine this: you are at the end of an interview. The interviewer has been thorough, explaining everything clearly, concisely, and in detail. You have no questions about the position and the company. However, the interviewer tells you that you can ask three questions. You don't want to waste this opportunity, knowing that not asking any questions tends to leave a negative impression.
+
+Considering this scenario, we would like to know:
+
+1. Which three questions would you ask the interviewer?
+
+2. What is the rationale behind each one of the questions you would ask?
+
+For your video to be valid, you must not only mention three questions but also explain the reason for asking each of them in your video. Be creative with your questions and explanation – there is no right or wrong.
+
+We strongly recommend you to watch your recorded video before sending it to make sure the audio and video quality is adequate.
+
+DON’T FORGET
+Your video must meet the following conditions:
+
+Do not recite a script written beforehand – just talk spontaneously as you would in an interview. Reading a script will void your videos!
+
+Record this video in a quiet place where you can be heard clearly, and your face is well-lit
+
+Do your best to look presentable, but don’t feel pressured to dress formally
+
+Make sure your audio and video are of good quality, and that your eyes and face can be seen clearly
+
+
